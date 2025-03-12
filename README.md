@@ -13,21 +13,21 @@
 
 *Analysis Steps*
 
->Data Preprocessing:
+Data Preprocessing:
 
-Handling missing values
-Converting categorical variables
-Standardizing numerical features
+>Handling missing values
+>Converting categorical variables
+>Standardizing numerical features
 
->Exploratory Data Analysis (EDA):
+Exploratory Data Analysis (EDA):
 
-Churn rate calculation
-Visualizing customer attributes vs. churn
+>Churn rate calculation
+>Visualizing customer attributes vs. churn
 
->Predictive Modeling:
+Predictive Modeling:
 
-Classification models (Logistic Regression, Decision Trees, etc.)
-Model evaluation and performance metrics
+>Classification models (Logistic Regression, Decision Trees, etc.)
+>Model evaluation and performance metrics
 
 *Key Findings*
 
