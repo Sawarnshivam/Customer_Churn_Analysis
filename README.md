@@ -33,11 +33,11 @@ Predictive Modeling:
 
 >Churn Rate: Approximately 26.54% of customers have churned.
 
->Factors Affecting Churn:
+Factors Affecting Churn:
 
-Customers with month-to-month contracts are more likely to churn.
-Higher monthly charges correlate with a higher churn rate.
-Customers with tech support and online security tend to stay longer.
+>Customers with month-to-month contracts are more likely to churn.
+>Higher monthly charges correlate with a higher churn rate.
+>Customers with tech support and online security tend to stay longer.
 
 *How to Use*
 
