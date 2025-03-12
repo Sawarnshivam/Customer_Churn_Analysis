@@ -1,7 +1,7 @@
 # Customer_Churn_Analysis
 *Overview*
 
-This project analyzes customer churn based on various factors such as contract type, monthly charges, tenure, and other service-related attributes. The dataset used in this analysis is Customer Churn.csv, and the findings are documented in the Jupyter Notebook (TCA.ipynb).
+>This project analyzes customer churn based on various factors such as contract type, monthly charges, tenure, and other service-related attributes. The dataset used in this analysis is Customer Churn.csv, and the findings are documented in the Jupyter Notebook (TCA.ipynb).
 
 *Project Structure*
 
@@ -49,11 +49,11 @@ Customers with tech support and online security tend to stay longer.
 
 *Requirements*
 
-Python 3.x
-Jupyter Notebook
-Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+>Python 3.x
+>Jupyter Notebook
+>Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 *Conclusion*
 
-This analysis helps businesses understand customer churn patterns and take proactive measures to improve retention strategies.
+>This analysis helps businesses understand customer churn patterns and take proactive measures to improve retention strategies.
 
